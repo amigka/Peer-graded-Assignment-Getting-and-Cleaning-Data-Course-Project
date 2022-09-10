@@ -8,6 +8,7 @@ Description of the dataset: http://archive.ics.uci.edu/ml/datasets/Human+Activit
 
 # Identifiers
 subject - The ID of each subject
+
 activity - The type of activity
 
 # Measurements
