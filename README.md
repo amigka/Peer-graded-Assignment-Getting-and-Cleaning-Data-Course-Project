@@ -1,4 +1,4 @@
-#Getting and Cleaning Data Course Project
+# Getting and Cleaning Data Course Project
 
 For this assignment an R script has been created called run_analysis.R, that does the followings:
 
