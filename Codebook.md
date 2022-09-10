@@ -3,10 +3,11 @@ This code book summarizes the resulting data fields in tidy.txt.
 
 # Data sources
 Data set: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 Description of the dataset: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 # Identifiers
-subject - The ID of the test subject
+subject - The ID of each subject
 activity - The type of activity
 
 # Measurements
