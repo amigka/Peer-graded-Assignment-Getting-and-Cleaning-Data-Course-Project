@@ -23,7 +23,7 @@ Description of the dataset: http://archive.ics.uci.edu/ml/datasets/Human+Activit
 - 'test/X_test.txt': Test set
 
 - 'test/y_test.txt': Test labels
-- 
+
 # Identifiers
 subject - The ID of each subject
 
